@@ -17,7 +17,7 @@ namespace {{ Namespace }}
 	{
 	
 		{{ #each InjectedClasses }}
-		readonly {{ this }} {{ csharp-membervar this }};
+		protected readonly {{ this }} {{ csharp-membervar this }};
 		{{ /each }}
 	
 		public {{ Name }}Base({{ csharp-parameters InjectedClasses }})
