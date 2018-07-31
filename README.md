@@ -1,2 +1,2 @@
-# Genyman.ViewModel
-Generating boilerplate code for (mobile)ViewModels with Genyman
+# Genyman.XamarinViewModel
+Generating boilerplate code for Xamarin ViewModels with Genyman
