@@ -7,7 +7,7 @@ using HandlebarsDotNet;
 
 namespace Stefandevo.Genyman.XamarinViewModel.Implementation
 {
-	public class Generator : GenymanGenerator<Configuration>
+	internal class Generator : GenymanGenerator<Configuration>
 	{
 		public override void Execute()
 		{

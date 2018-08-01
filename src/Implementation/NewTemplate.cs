@@ -2,7 +2,7 @@
 
 namespace Stefandevo.Genyman.XamarinViewModel.Implementation
 {
-	public class NewTemplate : Configuration
+	internal class NewTemplate : Configuration
 	{
 		public NewTemplate()
 		{
