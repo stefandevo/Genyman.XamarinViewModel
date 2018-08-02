@@ -1,11 +1,11 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
 	<PropertyGroup>
 		<OutputType>Exe</OutputType>
 		<IsPackable>true</IsPackable>
 		<PackAsTool>true</PackAsTool>
 		<TargetFramework>netcoreapp2.1</TargetFramework>
 		<AssemblyName>Stefandevo.Genyman.XamarinViewModel</AssemblyName>
-		<Version>1.0.2</Version>
+		<Version>1.0.3</Version>
 		<Description>Generating boilerplate code for Xamarin ViewModels</Description>
 		<PackageTags>Genyman</PackageTags>
 		<IncludeContentInPack>false</IncludeContentInPack>
