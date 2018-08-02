@@ -9,10 +9,11 @@
 		<Description>Generating boilerplate code for Xamarin ViewModels</Description>
 		<PackageTags>Genyman</PackageTags>
 		<IncludeContentInPack>false</IncludeContentInPack>
+		<PackageProjectUrl>https://github.com/stefandevo/Genyman.XamarinViewModel</PackageProjectUrl>
 		<PackageIconUrl>https://raw.githubusercontent.com/genyman/genyman/master/graphics/genyman64.png</PackageIconUrl>
 	</PropertyGroup>
 	<ItemGroup>
-		<PackageReference Include="Genyman.Core" Version="0.0.25" />
+		<PackageReference Include="Genyman.Core" Version="0.0.29" />
 	</ItemGroup>
 	<ItemGroup>
 		<Compile Remove="Templates\**" />

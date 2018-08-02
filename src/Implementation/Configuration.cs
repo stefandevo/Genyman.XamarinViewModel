@@ -4,7 +4,7 @@ using Genyman.Core;
 
 namespace Stefandevo.Genyman.XamarinViewModel.Implementation
 {
-	[Documentation(Remarks = "https://github.com/stefandevo/Genyman.XamarinViewModel")]
+	[Documentation(Source = "https://github.com/stefandevo/Genyman.XamarinViewModel")]
 	public class Configuration
 	{
 		[Description("The namespace to use for the viewmodel")]
